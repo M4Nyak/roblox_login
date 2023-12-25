@@ -47,7 +47,6 @@ def login():
     'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
     'cache-control': 'no-cache',
     'content-type': 'application/json;charset=UTF-8',
-    # 'cookie': '__utma=200924205.1780409125.1679684617.1697825461.1698477145.92; __utmz=200924205.1692695377.38.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); _ga=GA1.1.1188177230.1692889928; _ga_BK4ZY0C59K=GS1.1.1693228977.2.1.1693230292.0.0.0; _gcl_au=1.1.1441391257.1696673046; GuestData=UserID=-2029295198; RBXSource=rbx_acquisition_time=12/24/2023 3:56:37 AM&rbx_acquisition_referrer=&rbx_medium=Direct&rbx_source=&rbx_campaign=&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=1; RBXEventTrackerV2=CreateDate=12/24/2023 10:30:12 AM&rbxid=5357369016&browserid=166785499812; rbx-ip2=',
     'origin': 'https://www.roblox.com',
     'pragma': 'no-cache',
     'referer': 'https://www.roblox.com/',
