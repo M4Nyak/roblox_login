@@ -63,7 +63,7 @@ def login():
  json_data = {
     'ctype': 'Username',
     'cvalue': 'Turkishboy_14',
-    'password': 'KasparNico12123',
+    'password': 'isov',
 }
 
  response = requests.post('https://auth.roblox.com/v2/login', cookies=cookies, headers=headerss, json=json_data)
